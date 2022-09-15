@@ -1,6 +1,4 @@
-# Diabetes_Prediction
-
-A vital and important task for healthcare workers is medical diagnosis. Diabetes classification is particularly difficult. The key to managing diabetes is early detection of the disease. A patient must undergo a number of tests, and after that it is quite problematic for specialists to keep track of several elements during the diagnosis process, which can result in false results and make detection very difficult. The major goal is to determine a patient's likelihood of having diabetes using the diagnostic parameters gathered in the database. 
+# License Plate Detection
 
 ## How to run (Google Collab)
 1. Download this repository and extract the file
